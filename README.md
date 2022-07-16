@@ -1,3 +1,3 @@
 # E-Commerce web application
-
-ASP.NET Core, C#
+Web application developed using Asp.Net Core and C# 
+Model-View-controller architecture
