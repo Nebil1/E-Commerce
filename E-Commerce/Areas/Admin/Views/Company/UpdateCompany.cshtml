@@ -1,0 +1,69 @@
+﻿@model Company
+
+<form method="post" asp-action="UpdateCompany" enctype="multipart/form-data">
+	<input asp-for="Id" hidden />
+	
+	<div class="row">
+		<div class="col-10">
+			<div class="border p-3 mt-4 row">
+		<div class="col-12 pb-2">
+			<h2 class="text-primary">@(Model.Id!=0?"Update": "Add")  Company</h2>
+			<hr />
+		</div>
+		@*<div asp-validation-summary="All"></div>*@
+		<div class="mb-3">
+			<label asp-for="Name"></label>
+			<input asp-for="Name" class="form-control" />
+			<span asp-validation-for="Name" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="PhoneNumber">Phone number</label>
+			<input asp-for="PhoneNumber" class="form-control" />
+			<span asp-validation-for="PhoneNumber" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Address"></label>
+			<input asp-for="Address" class="form-control" />
+			<span asp-validation-for="Address" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="City"></label>
+			<input asp-for="City" class="form-control" />
+			<span asp-validation-for="City" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Region"></label>
+			<input asp-for="Region" class="form-control" />
+			<span asp-validation-for="Region" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="PostalCode">Postal code</label>
+			<input asp-for="PostalCode" class="form-control" />
+			<span asp-validation-for="PostalCode" class="text-danger"></span>
+		</div>
+		
+		<div class="col-12">
+			@if (Model.Id != 0)
+			{
+				<button type="submit" class="btn btn-primary" style="width:150px">Update</button>
+			}
+			else
+			{
+				<button type="submit" class="btn btn-primary" style="width:150px">Create</button>
+			}
+			<a asp-controller="Company" asp-action="Index" class="btn btn-secondary" style="width:150px">
+				Back
+			</a>
+		</div>
+
+	</div>
+		</div>
+		
+	</div>
+</form>
+
+@section Scripts{
+	@{
+	<partial name="_ValidationScriptsPartial" />
+	}
+}
