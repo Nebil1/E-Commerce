@@ -4,6 +4,8 @@
 
 **Designed for our ALX profolio project**
 
+![Gebeya-website preview](/home_page.png)
+
 
 ## Tech Stack
 
