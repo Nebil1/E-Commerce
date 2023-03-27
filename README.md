@@ -27,6 +27,7 @@
  - Microsoft Visual Studio
  - Microsoft SQL Server Express
  - Microsoft SQL Server Management Studio(SSMS)
+ 
 **2. Open 'E-Commerce.sln' file with Visual Studio**
 
 **3. Run the following commands on .NET command-line interface (CLI) one by one to install all the dependencies**
