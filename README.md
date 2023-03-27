@@ -1,10 +1,9 @@
 # Gebeya E-Commerce web application
 
-**ALX profolio project**
+**Premier e-commerce site that offers an exceptional online shopping experience for customers**
 
-**Web application developed using Asp.Net Core and C#**
+**Designed for our ALX profolio project**
 
-**Project name:  Gebeya E-Commerce App**
 
 ## Tech Stack
 
@@ -20,7 +19,7 @@
 - Microsoft Visual Studio
 - Microsoft SQL Server Express
 - Microsoft SQL Server Management Studio(SSMS)
-
+- .NET 6
 
 ## How to run
 
@@ -69,4 +68,4 @@
   Servername: .\SQLEXRPESS
   Authentication: Windows Authentication 
 ```
-**5. Everything is setup now! You can run the Visual Studio Project by clicking on run button named IIS Express.**
+**5. Everything is setup now! You can run the by clicking on run button named IIS Express.**
