@@ -24,12 +24,13 @@
 
 ## How to run
 
-1. Install the following
+**1. Install the following**
  - Microsoft Visual Studio
  - Microsoft SQL Server Express
  - Microsoft SQL Server Management Studio(SSMS)
-2. Open 'E-Commerce.sln' file with Visual Studio
-3. Run the following commands on .NET command-line interface (CLI) one by one to install all the dependencies 
+**2. Open 'E-Commerce.sln' file with Visual Studio**
+
+**3. Run the following commands on .NET command-line interface (CLI) one by one to install all the dependencies**
 ```bash
  dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore --version 6.0.6
 ```
@@ -63,9 +64,9 @@
 ```bash
  dotnet add package Stripe.net --version 39.119.0
 ```
-4. Open SQL Server Management Studio and in the "Connect to Database Engine" window type the following:
+**4. Open SQL Server Management Studio and in the "Connect to Database Engine" window type the following:**
 ```bash
   Servername: .\SQLEXRPESS
   Authentication: Windows Authentication 
 ```
-5. Everything is setup now! You can run the Visual Studio Project by clicking on run button named IIS Express.
+**5. Everything is setup now! You can run the Visual Studio Project by clicking on run button named IIS Express.**
