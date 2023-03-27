@@ -1,6 +1,6 @@
 # Gebeya E-Commerce web application
 
-**Premier e-commerce site that offers an exceptional online shopping experience for customers**
+**Premier E-commerce site that offers an exceptional online shopping experience for customers**
 
 **Designed for our ALX profolio project**
 
