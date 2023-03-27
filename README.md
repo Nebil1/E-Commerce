@@ -71,4 +71,4 @@
   Servername: .\SQLEXRPESS
   Authentication: Windows Authentication 
 ```
-**5. Everything is setup now! You can run the by clicking on run button named IIS Express.**
+**5. Everything is setup now! You can run the by clicking on run button in Visual Studio.**
