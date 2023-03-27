@@ -1,8 +1,10 @@
-# E-Commerce web application
+## E-Commerce web application
+# ALX profolio project
+# Web application developed using Asp.Net Core and C# 
+# Project name:  Gebeya E-Commerce App
 
-Web application developed using Asp.Net Core and C# 
-Model-View-controller architecture
+Technologies Used
 
-Project name:  Gebeya E-Commerce App
+Frontend: HTML, CSS, Bootstrap, Javascript
 
-For our ALX software engineering Portfolio project
+Backend: C#, ASP
