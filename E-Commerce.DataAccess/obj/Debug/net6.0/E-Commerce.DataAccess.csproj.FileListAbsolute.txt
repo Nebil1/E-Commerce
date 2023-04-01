@@ -1,0 +1,17 @@
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\obj\Debug\net6.0\E-Commerce.DataAccess.csproj.AssemblyReference.cache
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\obj\Debug\net6.0\E-Commerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\obj\Debug\net6.0\E-Commerce.DataAccess.AssemblyInfoInputs.cache
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\obj\Debug\net6.0\E-Commerce.DataAccess.AssemblyInfo.cs
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\obj\Debug\net6.0\E-Commerce.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\bin\Debug\net6.0\E-Commerce.DataAccess.deps.json
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\bin\Debug\net6.0\E-Commerce.DataAccess.runtimeconfig.json
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\bin\Debug\net6.0\E-Commerce.DataAccess.dll
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\bin\Debug\net6.0\E-Commerce.DataAccess.pdb
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\bin\Debug\net6.0\E-Commerce.Models.dll
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\bin\Debug\net6.0\E-Commerce.Models.pdb
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\obj\Debug\net6.0\E-Commerce.DataAccess.csproj.CopyComplete
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\obj\Debug\net6.0\E-Commerce.DataAccess.dll
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\obj\Debug\net6.0\refint\E-Commerce.DataAccess.dll
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\obj\Debug\net6.0\E-Commerce.DataAccess.pdb
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\obj\Debug\net6.0\E-Commerce.DataAccess.genruntimeconfig.cache
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.DataAccess\obj\Debug\net6.0\ref\E-Commerce.DataAccess.dll

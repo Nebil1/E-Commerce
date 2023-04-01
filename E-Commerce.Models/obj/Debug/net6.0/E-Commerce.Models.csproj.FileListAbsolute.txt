@@ -1,0 +1,12 @@
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.Models\bin\Debug\net6.0\E-Commerce.Models.deps.json
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.Models\bin\Debug\net6.0\E-Commerce.Models.dll
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.Models\bin\Debug\net6.0\E-Commerce.Models.pdb
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.Models\obj\Debug\net6.0\E-Commerce.Models.csproj.AssemblyReference.cache
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.Models\obj\Debug\net6.0\E-Commerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.Models\obj\Debug\net6.0\E-Commerce.Models.AssemblyInfoInputs.cache
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.Models\obj\Debug\net6.0\E-Commerce.Models.AssemblyInfo.cs
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.Models\obj\Debug\net6.0\E-Commerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.Models\obj\Debug\net6.0\E-Commerce.Models.dll
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.Models\obj\Debug\net6.0\refint\E-Commerce.Models.dll
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.Models\obj\Debug\net6.0\E-Commerce.Models.pdb
+C:\Users\YK\source\repos\E-Commerce\E-Commerce.Models\obj\Debug\net6.0\ref\E-Commerce.Models.dll
