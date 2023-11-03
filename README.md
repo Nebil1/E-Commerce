@@ -2,7 +2,7 @@
 
 **Premier E-commerce site that offers an exceptional online shopping experience for customers**
 
-**Designed for our ALX profolio project**
+**Designed for my ALX profolio project**
 
 ![Gebeya-website preview](/home_page.png)
 
@@ -35,35 +35,15 @@
 **3. Run the following commands on .NET command-line interface (CLI) one by one to install all the dependencies**
 ```bash
  dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore --version 6.0.6
-```
-```bash
  dotnet add package Microsoft.AspNetCore.Identity.UI --version 6.0.6
-```
-```bash
  dotnet add package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation --version 6.0.6
-```
-```bash
  dotnet add package Microsoft.AspNetCore.Mvc.ViewFeatures --version 2.2.0
-```
-```bash
  dotnet add package Microsoft.EntityFrameworkCore --version 6.0.6
-```
-```bash
  dotnet add package Microsoft.EntityFrameworkCore.Relational --version 6.0.6
-```
-```bash
  dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 6.0.6
-```
-```bash
  dotnet add package Microsoft.EntityFrameworkCore.Tools --version 6.0.6
-```
-```bash
  dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Contracts --version 5.0.2
-```
-```bash
  dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design --version 6.0.6
-```
-```bash
  dotnet add package Stripe.net --version 39.119.0
 ```
 **4. Open SQL Server Management Studio and in the "Connect to Database Engine" window type the following:**
